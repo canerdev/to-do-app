@@ -91,7 +91,7 @@ function ToDoList() {
   })
 
   return (
-    <div className="text-white grid justify-items-stretch text-center mx-auto p-4">
+    <div className="text-white w-3/5 grid justify-items-stretch text-center mx-auto p-4">
       <div className="inline-block text-5xl my-2 p-2">to do app</div> 
       {/* add task */}
       <div className="w-3/5 flex justify-self-center gap-2">
